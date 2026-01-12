@@ -16,34 +16,53 @@ Jan. 16: **R coding**: Introduction to R; Class is online via zoom
 **Reading**: Revell and Harmon Chapter 1 
 **R code**: (TBA)[]  
 
----
+## Week 2: 
 
 Jan. 19: NO CLASS (MLK DAY)
   
-Jan. 21: **Paper discussion**: (Rohlf 2001)[papers/rohlf2001.pdf] (Cheng et al. 2024)[]  
-**Background reading**: (Harmon Chapter 2)[https://lukejharmon.github.io/pcm/chapter2_stats/]  
+Jan. 21: **Paper discussion**: (Felsenstein 1985)[Fels1985.pdf] and (Huey et al. 2019)[Huey2019.pdf]
   
-Jan. 23: **R coding**: PICs and PGLS: 
+Jan. 23: **R coding**: PICs: 
 **Reading**: Revell and Harmon Chapter 2
 **R code**: (TBA)[]  
 
----
+## Week 3: 
 
-Jan. 26:
-Jan. 28:
-Jan. 30:
+Jan. 26: **Lecture**: The comparative approach - Harmon - (Slides)[]  
+**Reading**: (Harmon Chapter 2)[https://lukejharmon.github.io/pcm/chapter2_stats/]  
+  
+Jan. 28: **Paper discussion**: (Rohlf 2001)[Rohlf2001.pdf]
 
-Feb. 2:
-Feb. 4:
-Feb. 6:
+Jan. 30: **R coding**: PGLS
+**Reading**: Revell and Harmon Chapter 3
+**R code**: (TBA)[]  
 
-Feb. 9:
-Feb. 11: 
-Feb. 13:
+## Week 4:  
 
-Feb. 16:
-Feb. 18:
-Feb. 20:
+Feb. 2: **Lecture**: Brownian motion - Corn - (Slides)[]  
+**Reading**: Harmon (Chapter 3)[https://lukejharmon.github.io/pcm/chapter3_bmintro/] & (Chapter 4)[https://lukejharmon.github.io/pcm/chapter4_fitbm/]  
+Feb. 4: **Paper discussion**: (Mahler et al. 2010)[Mahler2010.pdf]  
+Feb. 6: **R coding**:  Brownian motion on a tree 
+**Reading**: Revell and Harmon Chapter 4
+**R code**: (TBA)[]  
+
+## Week 5: 
+
+Feb. 9: **Lecture**: Multivariate Brownian motion - Harmon - (Slides)[]  
+**Reading**: Harmon (Chapter 5)[https://lukejharmon.github.io/pcm/chapter5_mvbm/]  
+Feb. 11: **Paper discussion**: (Hunt et al. 2023)[Hunt2023.pdf]  
+Feb. 13: **R coding**:  Multivariate Brownian Motion 
+**Reading**: Revell and Harmon Chapter 5
+**R code**: (TBA)[]  
+
+## Week 6: 
+
+Feb. 16: **Lecture**: Beyond Brownian motion - Corn - (Slides)[]  
+**Reading**: Harmon (Chapter 6)[https://lukejharmon.github.io/pcm/chapter6_beyondbm/]  
+Feb. 18: **Paper discussion**: (Miller et al. 2024)[Miller2024.pdf]  
+Feb. 20: **R coding**:  OU and Multi-regime models 
+**Reading**: Revell and Harmon Chapter 5 continues
+**R code**: (TBA)[]  
 
 Feb. 23:
 Feb. 25:
