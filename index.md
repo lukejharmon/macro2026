@@ -7,25 +7,27 @@
 ## Week 1: 
 
 Jan. 12: No class UI
-
-
+  
 Jan. 14: **Debate**: Is life on Earth boring?  
 **Readings**: (Harmon Chapter 1)[https://lukejharmon.github.io/pcm/chapter1_introduction/]  
-**Slides**: [Harmon slides ](https://docs.google.com/presentation/d/1jXeT81_izWdeMiEIqGYB8om9GJLKpYxNMRWHjti0r1E/edit?usp=drive_link) [Corn slides]()  
+**Slides**: [Harmon](https://docs.google.com/presentation/d/1jXeT81_izWdeMiEIqGYB8om9GJLKpYxNMRWHjti0r1E/edit?usp=drive_link) [Corn]()  
   
 Jan. 16: **R coding**: Introduction to R; Class is online via zoom  
-**Reading**: (Revell and Harmon Chapter 1)[]  
+**Reading**: Revell and Harmon Chapter 1 
 **R code**: (TBA)[]  
 
 ---
 
 Jan. 19: NO CLASS (MLK DAY)
+  
+Jan. 21: **Paper discussion**: (Rohlf 2001)[papers/rohlf2001.pdf] (Cheng et al. 2024)[]  
+**Background reading**: (Harmon Chapter 2)[https://lukejharmon.github.io/pcm/chapter2_stats/]  
+  
+Jan. 23: **R coding**: PICs and PGLS: 
+**Reading**: Revell and Harmon Chapter 2
+**R code**: (TBA)[]  
 
-Jan. 21: Paper discussion
-Background reading: (Harmon Chapter 2)[https://lukejharmon.github.io/pcm/chapter2_stats/]
-For discussion: (Rohlf 2001)[papers/rohlf2001.pdf] (Cheng et al. 2024)[]
-
-Jan. 23: R coding: PICs and PGLS: (Revell and Harmon Chapter 2)[] (R code)[]
+---
 
 Jan. 26:
 Jan. 28:
