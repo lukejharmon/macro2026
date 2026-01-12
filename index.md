@@ -8,11 +8,14 @@
 
 Jan. 12: No class UI
 
-Jan. 14: Debate: Is life on Earth boring? [Harmon](https://docs.google.com/presentation/d/1jXeT81_izWdeMiEIqGYB8om9GJLKpYxNMRWHjti0r1E/edit?usp=drive_link) [Corn]()
-Readings: (Harmon Chapter 1)[https://lukejharmon.github.io/pcm/chapter1_introduction/]
 
-
-Jan. 16: R coding: Introduction to R (online via zoom): (Revell and Harmon Chapter 1)[] (R code)[]
+Jan. 14: **Debate**: Is life on Earth boring?  
+**Readings**: (Harmon Chapter 1)[https://lukejharmon.github.io/pcm/chapter1_introduction/]  
+**Slides**: [Harmon slides ](https://docs.google.com/presentation/d/1jXeT81_izWdeMiEIqGYB8om9GJLKpYxNMRWHjti0r1E/edit?usp=drive_link) [Corn slides]()  
+  
+Jan. 16: **R coding**: Introduction to R; Class is online via zoom  
+**Reading**: (Revell and Harmon Chapter 1)[]  
+**R code**: (TBA)[]  
 
 ---
 
