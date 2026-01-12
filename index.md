@@ -9,9 +9,9 @@ Week 1:
 
 Jan. 12: No class UI
 
-Jan. 14: Debate: Is life on Earth boring? (Harmon)[] (Corn)[]
+Jan. 14: Debate: Is life on Earth boring? [Harmon]() [Corn]()
 
-Jan. 16: R coding: Introduction to R (online via zoom) (R code)[]
+Jan. 16: R coding: Introduction to R (online via zoom) [R code]()
 
 ---
 
