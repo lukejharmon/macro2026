@@ -1,23 +1,28 @@
-# Macroevolution
 
-UI and WSU Spring 2026
-Harmon and Corn
+# UI and WSU Spring 2026
+# Harmon and Corn
 
-Class Schedule 
+## Class Schedule 
 
-Week 1: 
+## Week 1: 
 
 Jan. 12: No class UI
 
-Jan. 14: Debate: Is life on Earth boring? [Harmon]() [Corn]()
+Jan. 14: Debate: Is life on Earth boring? [Harmon](https://docs.google.com/presentation/d/1jXeT81_izWdeMiEIqGYB8om9GJLKpYxNMRWHjti0r1E/edit?usp=drive_link) [Corn]()
+Readings: (Harmon Chapter 1)[https://lukejharmon.github.io/pcm/chapter1_introduction/]
 
-Jan. 16: R coding: Introduction to R (online via zoom) [R code]()
+
+Jan. 16: R coding: Introduction to R (online via zoom): (Revell and Harmon Chapter 1)[] (R code)[]
 
 ---
 
 Jan. 19: NO CLASS (MLK DAY)
-Jan. 21: Paper discussion: (Rohlf 2001)[papers/rohlf2001.pdf] (Cheng et al. 2024)[]
-Jan. 23: R coding: 
+
+Jan. 21: Paper discussion
+Background reading: (Harmon Chapter 2)[https://lukejharmon.github.io/pcm/chapter2_stats/]
+For discussion: (Rohlf 2001)[papers/rohlf2001.pdf] (Cheng et al. 2024)[]
+
+Jan. 23: R coding: PICs and PGLS: (Revell and Harmon Chapter 2)[] (R code)[]
 
 Jan. 26:
 Jan. 28:
